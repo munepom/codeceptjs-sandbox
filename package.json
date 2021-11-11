@@ -1,0 +1,14 @@
+{
+  "name": "codeceptjs-sandbox",
+  "description": "CodeceptJS sandbox",
+  "private": true,
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.3.1",
+    "@typescript-eslint/parser": "^5.3.1",
+    "codeceptjs": "^3.2.1",
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
+  }
+}
