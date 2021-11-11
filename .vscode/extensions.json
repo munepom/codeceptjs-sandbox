@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    // コードの体裁を揃える系
+    // ESLint
+    "dbaeumer.vscode-eslint",
+    // Prettier
+    "esbenp.prettier-vscode"
+  ]
+}
